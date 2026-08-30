@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+psycopg2-binary
+pydantic
+scikit-learn
+numpy
+python-dotenv
+pytest
+httpx
